@@ -1,3 +1,3 @@
 function todo(){
-    console.log("Print")
+    console.log("to do list")
 }
