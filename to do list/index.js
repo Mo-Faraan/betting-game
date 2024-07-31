@@ -1,5 +1,5 @@
 function todo(){
     console.log("to do list")
-    let a=8;
+    let a=6;
 
 }
